@@ -73,7 +73,7 @@ A collection of beginner-friendly Python programs:
 - Mad Libs   
 
 **Tech:** Python  
-🔗 *GitHub repository* https://github.com/Iqratashfi/python-projects
+🔗 *GitHub repository* :https://github.com/Iqratashfi/python-projects
 
 ---
 
