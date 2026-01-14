@@ -82,10 +82,11 @@ A collection of beginner-friendly Python programs:
 
 - Python  
 - Pandas, NumPy  
-- Scikit-learn (basic)  
-- Git & GitHub  
+- Scikit-learn (basic)
+- Data Analysis
 - HTML & CSS (basic)  
-- Data Analysis  
+- Git & GitHub  
+  
 
 ---
 
@@ -96,4 +97,4 @@ A collection of beginner-friendly Python programs:
 
 ---
 
-*“Built, tested, learned..”*
+*Built, tested, learned..*
