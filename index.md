@@ -51,14 +51,14 @@ A Python application that removes and replaces image backgrounds using OpenCV an
 
 ---
 
-### 🔹 Hospital Management System
+### Hospital Management System
 A basic system developed to manage patient records and hospital workflows.
 
 **Tech:** Java / Python  
 
 ---
 
-### 🔹 Missile Detection Hardware Project
+### Missile Detection Hardware Project
 A hardware-based academic project focused on detection concepts using sensors and microcontrollers.
 
 **Tech:** Embedded Systems, Sensors  
@@ -66,7 +66,7 @@ A hardware-based academic project focused on detection concepts using sensors an
 
 ---
 
-### 🔹 Python Mini Projects
+### Python Mini Projects
 A collection of beginner-friendly Python programs:
 - Rock Paper Scissors  
 - Calculator  
@@ -95,4 +95,4 @@ A collection of beginner-friendly Python programs:
 
 ---
 
-> *“The best way to learn is by building.”*
+*“Built, tested, learned..”*
