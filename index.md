@@ -2,122 +2,97 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Hi, I’m Iqra 👋
 
-[Link to another page](./another-page.html).
+Master’s student in **AI & Data Science**  
+Focused on **Data Analytics, Machine Learning, and Python**    
 
-There should be whitespace between paragraphs.
+This website showcases my **academic coursework projects** and **personal projects** developed during my learning journey.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+## About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am a Computer Science graduate currently pursuing my Master’s in AI & Data Science.  
+My interests include data analysis, machine learning fundamentals, and applying AI concepts to real-world problems.
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Master’s Projects
 
-### Header 3
+###  Data Analysis using Pandas
+An academic project focused on exploring, cleaning, and analyzing datasets using Pandas.  
+Covered operations like indexing, filtering, aggregation, and basic insights generation.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Tech:** Python, Pandas  
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+---
 
-#### Header 4
+### Machine Learning – Linear Regression Model
+Implementation of linear regression as part of coursework, including data preprocessing, model training, and evaluation.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**Tech:** Python, NumPy, Scikit-learn  
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### Exploratory Data Analysis (EDA) Project
+Performed EDA on structured datasets to identify trends, patterns, and correlations.
 
-###### Header 6
+**Tech:** Python, Pandas, Matplotlib  
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+---
 
-### There's a horizontal rule below this.
+## Personal Projects
 
-* * *
+### 🔹 Background Remover using OpenCV
+A Python application that removes and replaces image backgrounds using OpenCV and cvzone.
 
-### Here is an unordered list:
+**Tech:** Python, OpenCV  
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
+### 🔹 Hospital Management System
+A basic system developed to manage patient records and hospital workflows.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+**Tech:** Java / Python  
 
-### And a nested list:
+---
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+### 🔹 Missile Detection Hardware Project
+A hardware-based academic project focused on detection concepts using sensors and microcontrollers.
 
-### Small image
+**Tech:** Embedded Systems, Sensors  
+📄 *Final year project*
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+---
 
-### Large image
+### 🔹 Python Mini Projects
+A collection of beginner-friendly Python programs:
+- Rock Paper Scissors  
+- Calculator  
+- Mad Libs   
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+**Tech:** Python  
+🔗 *GitHub repository* https://github.com/Iqratashfi/python-projects
 
+---
 
-### Definition lists can be used with HTML syntax.
+## Skills
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- Python  
+- Pandas, NumPy  
+- Scikit-learn (basic)  
+- Git & GitHub  
+- HTML & CSS (basic)  
+- Data Analysis  
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+---
 
-```
-The final element.
-```
+## Contact
+
+📧 Email: iqratashfi07@gmail.com  
+💻 GitHub: https://github.com/IqraTashfi  
+
+---
+
+> *“The best way to learn is by building.”*
