@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hi, I’m Iqra 👋
+# Hello, I’m Iqra 👋
 
 Master’s student in **AI & Data Science**  
 Focused on **Data Analytics, Machine Learning, and Python**    
@@ -74,7 +74,7 @@ A collection of beginner-friendly Python programs:
 - Guessing the number
 
 **Tech:** Python  
-🔗 *GitHub repository* https://github.com/Iqratashfi/python-projects
+🔗 *GitHub repository:* https://github.com/Iqratashfi/python-projects
 
 ---
 
