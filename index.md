@@ -21,15 +21,15 @@ My interests include data analysis, machine learning fundamentals, and applying 
 ## Master’s Projects
 
 ###  Data Analysis using Pandas
-An academic project focused on exploring, cleaning, and analyzing datasets using Pandas.  
-Covered operations like indexing, filtering, aggregation, and basic insights generation.
+This project focused on exploring, cleaning, and analyzing datasets using Pandas.  
+It covered operations like indexing, filtering, aggregation, and basic insights generation.
 
 **Tech:** Python, Pandas  
 
 ---
 
 ### Machine Learning – Linear Regression Model
-Implementation of linear regression as part of coursework, including data preprocessing, model training, and evaluation.
+Implementation of linear regression, including data preprocessing, model training, and evaluation.
 
 **Tech:** Python, NumPy, Scikit-learn  
 
@@ -44,25 +44,24 @@ Performed EDA on structured datasets to identify trends, patterns, and correlati
 
 ## Personal Projects
 
-### 🔹 Background Remover using OpenCV
+### 1. Background Remover using OpenCV
 A Python application that removes and replaces image backgrounds using OpenCV and cvzone.
 
 **Tech:** Python, OpenCV  
 
 ---
 
-### Hospital Management System
+### 2. Hospital Management System
 A basic system developed to manage patient records and hospital workflows.
 
 **Tech:** Java / Python  
 
 ---
 
-### Missile Detection Hardware Project
-A hardware-based academic project focused on detection concepts using sensors and microcontrollers.
+### 3. Missile Detection Hardware Project
+Final year project: A hardware-based project focused on detection concepts using sensors and microcontrollers.
 
 **Tech:** Embedded Systems, Sensors  
-📄 *Final year project*
 
 ---
 
@@ -70,10 +69,12 @@ A hardware-based academic project focused on detection concepts using sensors an
 A collection of beginner-friendly Python programs:
 - Rock Paper Scissors  
 - Calculator  
-- Mad Libs   
+- Mad Libs
+- Compliment Generator
+- Guessing the number
 
 **Tech:** Python  
-🔗 *GitHub repository* :https://github.com/Iqratashfi/python-projects
+🔗 *GitHub repository* https://github.com/Iqratashfi/python-projects
 
 ---
 
